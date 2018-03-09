@@ -1,0 +1,10 @@
+D:\Documents\Josh\learnDotNet\DictationProcessor\bin\Debug\netcoreapp2.0\DictationProcessor.deps.json
+D:\Documents\Josh\learnDotNet\DictationProcessor\bin\Debug\netcoreapp2.0\DictationProcessor.runtimeconfig.json
+D:\Documents\Josh\learnDotNet\DictationProcessor\bin\Debug\netcoreapp2.0\DictationProcessor.runtimeconfig.dev.json
+D:\Documents\Josh\learnDotNet\DictationProcessor\bin\Debug\netcoreapp2.0\DictationProcessor.dll
+D:\Documents\Josh\learnDotNet\DictationProcessor\bin\Debug\netcoreapp2.0\DictationProcessor.pdb
+D:\Documents\Josh\learnDotNet\DictationProcessor\obj\Debug\netcoreapp2.0\DictationProcessor.csproj.CoreCompileInputs.cache
+D:\Documents\Josh\learnDotNet\DictationProcessor\obj\Debug\netcoreapp2.0\DictationProcessor.AssemblyInfoInputs.cache
+D:\Documents\Josh\learnDotNet\DictationProcessor\obj\Debug\netcoreapp2.0\DictationProcessor.AssemblyInfo.cs
+D:\Documents\Josh\learnDotNet\DictationProcessor\obj\Debug\netcoreapp2.0\DictationProcessor.dll
+D:\Documents\Josh\learnDotNet\DictationProcessor\obj\Debug\netcoreapp2.0\DictationProcessor.pdb
